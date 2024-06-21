@@ -1,0 +1,259 @@
+More
+2
+France
+France
+1837.47	1840.59	-3.12	
+3
+Belgium
+Belgium
+1797.98	1795.23	+2.75	
+5
+1
+England
+England
+1787.88	1794.9	-7.02	
+6
+Portugal
+Portugal
+1747.04	1748.11	-1.07	
+7
+Netherlands
+Netherlands
+1746.66	1742.29	+4.37	
+8
+Spain
+Spain
+1729.92	1727.5	+2.42	
+9
+1
+Croatia
+Croatia
+1728.3	1721.07	+7.23	
+10
+1
+Italy
+Italy
+1724.37	1724.6	-0.23	
+16
+Germany
+Germany
+1646.78	1644.21	+2.57	
+19
+Switzerland
+Switzerland
+1617.24	1616.41	+0.83	
+21
+Denmark
+Denmark
+1610.76	1602.72	+8.04	
+24
+2
+Ukraine
+Ukraine
+1565.37	1568.86	-3.49	
+25
+Austria
+Austria
+1560.03	1554.86	+5.17	
+26
+2
+Poland
+Poland
+1541.49	1531.49	+10	
+27
+1
+Hungary
+Hungary
+1529	1532.2	-3.2	
+28
+1
+Sweden
+Sweden
+1522.19	1531.68	-9.49	
+29
+Wales
+Wales
+1521.4	1531.38	-9.98	
+32
+1
+Serbia
+Serbia
+1514.76	1514.2	+0.56	
+33
+2
+Russia
+Russia
+1506.58	1504.02	+2.56	
+34
+2
+Czechia
+Czechia
+1506.23	1501.47	+4.76	
+39
+Scotland
+Scotland
+1497.18	1497.46	-0.28	
+42
+2
+Türkiye
+Türkiye
+1493.38	1495.94	-2.56	
+45
+3
+Slovakia
+Slovakia
+1467.77	1461.55	+6.22	
+46
+1
+Norway
+Norway
+1466.48	1467.51	-1.03	
+47
+1
+Romania
+Romania
+1462.35	1468.17	-5.82	
+51
+1
+Greece
+Greece
+1455.95	1457.89	-1.94	
+57
+Slovenia
+Slovenia
+1429.74	1427.84	+1.9	
+60
+Republic of Ireland
+Republic of Ireland
+1403.84	1399.74	+4.1	
+63
+2
+Finland
+Finland
+1393.4	1394.44	-1.04	
+66
+Albania
+Albania
+1379.4	1375.1	+4.3	
+70
+2
+Iceland
+Iceland
+1353.48	1346.82	+6.66	
+71
+2
+North Macedonia
+North Macedonia
+1348.63	1354.19	-5.56	
+72
+2
+Montenegro
+Montenegro
+1345.02	1351.72	-6.7	
+73
+Northern Ireland
+Northern Ireland
+1341.33	1341.05	+0.28	
+74
+1
+Georgia
+Georgia
+1338.91	1333.76	+5.15	
+75
+1
+Bosnia and Herzegovina
+Bosnia and Herzegovina
+1332.3	1335.6	-3.3	
+79
+1
+Israel
+Israel
+1312.54	1311.39	+1.15	
+82
+1
+Bulgaria
+Bulgaria
+1295.5	1292.59	+2.91	
+85
+2
+Luxembourg
+Luxembourg
+1276.73	1277.94	-1.21	
+96
+1
+Armenia
+Armenia
+1230.79	1229.18	+1.61	
+98
+2
+Belarus
+Belarus
+1219.78	1226.54	-6.76	
+105
+3
+Kosovo
+Kosovo
+1203.16	1205.85	-2.69	
+109
+6
+Kazakhstan
+Kazakhstan
+1193.62	1203.64	-10.02	
+111
+1
+Azerbaijan
+Azerbaijan
+1179.88	1177.83	+2.05	
+123
+Estonia
+Estonia
+1146.47	1141.13	+5.34	
+126
+2
+Cyprus
+Cyprus
+1136.78	1141.03	-4.25	
+136
+1
+Lithuania
+Lithuania
+1100.66	1095.23	+5.43	
+138
+2
+Latvia
+Latvia
+1095.98	1095.91	+0.07	
+139
+6
+Faroe Islands
+Faroe Islands
+1093.7	1103.43	-9.73	
+152
+1
+Moldova
+Moldova
+1033.75	1028.85	+4.9	
+162
+2
+Andorra
+Andorra
+996.05	998.75	-2.7	
+172
+1
+Malta
+Malta
+970.62	973.14	-2.52	
+198
+5
+Gibraltar
+Gibraltar
+836.14	832.5	+3.64	
+199
+3
+Liechtenstein
+Liechtenstein
+835.83	832.75	+3.08	
+210
+San Marino
+San Marino
+739.64	742.05	-2.41
